@@ -14,6 +14,7 @@
 - 💬 Ask me about **reactjs nodejs nextjs expressjs**
 
 - 📫 How to reach me **gautamwadhwa473@gmail.com**
+- Resume Link- https://drive.google.com/file/d/1LNSBOKfH_dB5f8SYnpCEhEssxyCoS4YB/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
