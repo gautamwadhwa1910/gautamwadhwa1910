@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **reactjs nodejs nextjs expressjs**
+- 💬 Ask me about **Reactjs Nodejs Nextjs Expressjs**
 
 - 📫 How to reach me **gautamwadhwa473@gmail.com**
 - Resume Link- https://drive.google.com/file/d/1LNSBOKfH_dB5f8SYnpCEhEssxyCoS4YB/view?usp=drive_link
