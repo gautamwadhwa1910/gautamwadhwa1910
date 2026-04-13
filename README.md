@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gautamwadhwa" alt="gautamwadhwa" /></a> </p>
 
-- 🔭 I’m currently working on **Calceus**-(https://calceus-ecommerce-nsju8ihta-gautamwadhwa1910s-projects.vercel.app/)
+- 🔭 I’m currently working on [**Calceus**](https://calceus-ecommerce-nsju8ihta-gautamwadhwa1910s-projects.vercel.app/)
 
 - 🌱 I’m currently learning **Machine learning specialization**
 
